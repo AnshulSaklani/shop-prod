@@ -1,4 +1,4 @@
-
+let mysql = require("mysql");
 let connData = {
 	host: "localhost",
 	user: "root",
